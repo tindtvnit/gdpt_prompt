@@ -1,7 +1,7 @@
 # gdpt_prompt
 
-Bộ prompt sinh ảnh AI mô tả đồng phục các thành phần trong **Gia Đình Phật Tử (GĐPT)** Việt Nam.  
-Các prompt được thiết kế để dùng với các công cụ sinh ảnh AI như **ChatGPT (DALL·E)**, **Midjourney**, **Stable Diffusion**, **Adobe Firefly**, v.v.
+Bộ prompt sinh ảnh AI mô tả đồng phục trong **Gia Đình Phật Tử (GĐPT)** Việt Nam.  
+Các prompt được thiết kế để dùng với các công cụ sinh ảnh AI như **ChatGPT**, **Gemini**, **Midjourney**, **Stable Diffusion**, **Adobe Firefly**, v.v.
 
 ---
 
